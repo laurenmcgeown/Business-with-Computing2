@@ -1,0 +1,31 @@
+<body> 
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
+<ul>
+  
+<h1><strong>Business with computing<strong></h1>
+
+<li><a href="#page1">Home</li>
+<li class="menu"><a href="#">Course Years</a>
+<select>
+  <option value="year1">Year1</option>
+  <option value="year2">Year2</option>
+  <option value="year3">Year3</option>
+</select>
+  
+  
+  
+  
+  
+<ul class="submenu">
+<li><a href="year1">Year1</a></li>
+<li><a href="year2">Year2</a></li>
+<li><a href="year3">Year3</a></li>
+
+  </ul>
+    
+<li><a href="#page5">Staff</li>
+<li><a href="#page6">Contact</li>
+  
+<img src=http://www.replify.com/wp-content/uploads/2018/04/Screen-Shot-2018-03-14-at-11.56.05-600x594.png>
+  </body>
+  
